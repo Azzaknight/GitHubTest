@@ -10,4 +10,6 @@
 
 @interface GitHubTestViewController : UIViewController
 
+@property (nonatomic) int aLie;
+
 @end
